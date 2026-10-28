@@ -1,0 +1,12 @@
+=====================================
+   SMART DIGITAL IDENTITY VERIFICATION
+           SYSTEM REPORT
+=====================================
+Generated On          : 28-10-2026
+-------------------------------------
+Total Citizens        : 1
+Verified Citizens     : 1
+Pending Citizens      : 0
+Rejected Citizens     : 0
+Today's Registrations : 1
+=====================================
